@@ -5,13 +5,15 @@
     font-family: sans-serif;
 }
 body {
-    background: #d1dce0;
+    background-color: black;
 }
 .wrapper {
     width: 350px;
     height: 480px;
     margin: 65px auto;
-    background-color: #0109ff;
+    background-image: url('./wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat ;
     border-radius: 15px;
     box-shadow: 0 10px 15 rgb(0, 0, 0, 0.1);
 }
@@ -20,12 +22,12 @@ body {
     outline: none;
     width: 330px;
     height: 80px;
-    color: rgb(22, 40, 202);
+    color: rgb(28, 177, 142);
     font-size: 58px;
     font-weight: 700;
     padding: 10px;
     text-align: right;
-    background: rgb(0, 255, 21);
+    background: rgb(10, 25, 64);
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
