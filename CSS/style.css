@@ -11,7 +11,7 @@ body {
     width: 350px;
     height: 480px;
     margin: 65px auto;
-    background-image: url('./wallpaper.jpg');
+    background-image: url('./image/wallpaper.jpg');
     background-size: cover;
     background-repeat: no-repeat ;
     border-radius: 15px;
@@ -28,7 +28,7 @@ body {
     padding: 10px;
     text-align: right;
     background: rgb(10, 25, 64);
-    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
 .button-box {
